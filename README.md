@@ -1,7 +1,5 @@
-# AG Platformer 2D
+# 原AG Platformer 2D规划仓：已迁入ag-examples
 
-AutoGraphics M2独立二维横版平台游戏。2026-11-02仅建立本地规划仓；尚无游戏实现、素材、发行包、远端或运行通过结论。
+2026-11-02用户批准完整游戏与小Demo同仓分区。原G2-001已迁为[ag-examples/PLAN-014 r2](../ag-examples/docs/plans/014-autographics-complete-2d-platformer.md)，正式游戏目标目录ag-examples/games/platformer-2d；原玩法/预算/验收与UI032实际交付门保持。
 
-[首份合同 G2-001](docs/plans/001-autographics-complete-2d-platformer.md)承接完整G2-01..09，使用AutoUI式Node/model/view-2d/msg/on/Life和普通use；公共引擎归auto-ui，Gallery归ag-examples。游戏准备与UI032、AG013并行，最终接线固定UI032实际交付，不消费开发tip。
-
-[游戏设计](docs/design/g2-game-contract.md) · [计划导航](docs/plans/README.md) · [三线总路线](../auto-ui/docs/design/autographics/m2-game-first-three-lane-roadmap.md)。当前仅规划，暂不实施。
+本地仓只留历史与迁移指引，不再持活动合同、分配编号或实施。原始合同可从提交6c6e07fa5da89c2b104ccb5d3465f1fddbe43eed读取；没有游戏实现/资产/远端被搬迁，也未删除仓或重写历史。
